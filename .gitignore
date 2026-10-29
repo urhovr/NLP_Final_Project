@@ -1,2 +1,4 @@
 venv
 test_trainer
+bertweet_trainer_model
+bertbase_trainer_model
